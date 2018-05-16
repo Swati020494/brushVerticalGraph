@@ -6,7 +6,7 @@ Data is loaded from a csv file locally available.
 
 
 ## Result Image 
-![Image of the Demo](https://i.imgur.com/mzZElnJ.gif)
+![Image of the Demo](https://media.giphy.com/media/2sYdsWU4GVYatuelWH/giphy.gif)
 
 ## Usage
 * `npm start` to run eslint on watch mode and dev-server at localhost:8080.
