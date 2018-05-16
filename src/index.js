@@ -33,7 +33,7 @@ let xAxis = d3.axisBottom(x),
  * initialization of the brush component
  */
 let brush = d3.brushX()
-    .extent([[0, 0], [width, height2]])
+    .extent([[0, 0], [width, 60]])
     .on("brush end", brushed);
 
 /**
