@@ -1,4 +1,4 @@
-# Vertical Chart With Brusshable component
+# Vertical Chart With Brushable Component
 Started on a standard ES6 Boilerplate configured with babel, webpack and eslint, this is a simple visualisation of the price v/s date. We can zoom and shrink based on data
 
 ## Data
