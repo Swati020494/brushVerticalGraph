@@ -4,8 +4,9 @@ Started on a standard ES6 Boilerplate configured with babel, webpack and eslint,
 ## Data
 Data is loaded from a csv file locally available.
 
+
 ## Result Image 
-![alt_text](https://ibb.co/kGaxGJ)
+![Image of the Demo](https://i.imgur.com/mzZElnJ.gif)
 
 ## Usage
 * `npm start` to run eslint on watch mode and dev-server at localhost:8080.
