@@ -57,14 +57,12 @@ let paramObj = {
 let utils = context(paramObj);
 
 /**
- * initialization of the brush component
- *
- * @param1 - data
+ * calling the actions needed to execute when brush changes
  */
 function brushed() {
     utils.brushedFunc(d3.event.selection, xBrush);
 }
-
+/*  initializing the brush */
 let brush = d3.brushX()
                 .extent([[0, 0], [width, 60]])
                 .on('brush end', brushed);
